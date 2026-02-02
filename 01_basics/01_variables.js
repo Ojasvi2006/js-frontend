@@ -1,7 +1,7 @@
 const accId = 1234
 let accEmail = "hello@gmail.com"
 var accCity = "Jaipur"
-let acc=10
+acc=10
 
 console.table([accId, accEmail, accCity, acc])
 
